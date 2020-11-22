@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Game</string>
+    <string name="btnAdd">เพิ่มข้อมูล</string>
+    <string name="btnViewAll">ดูข้อมูลทั้งหมด</string>
+    <string name="name">ชื่อ</string>
+    <string name="age">อายุ</string>
+</resources>
